@@ -51,7 +51,7 @@
 ![Analytics Screenshot](/assets/images/1.png)
 
 ### Order Management
-![Order Management Screenshot](/assets/images/order-management.png)
+![Order Management Screenshot](/assets/images/2.png)
 
 ---
 
