@@ -1,4 +1,3 @@
-Here’s your updated README file with additional features and improvements:
 
 ---
 
@@ -36,10 +35,10 @@ Here’s your updated README file with additional features and improvements:
 ## 🛠️ Technologies Used
 
 - **Frontend**: [React.js]
-- **Backend**: [Node.js / NestJS]
-- **Database**: [MongoDB / Prisma]
+- **Backend**: [Node.js]
+- **Database**: [MongoDB]
 - **Styling**: [TailwindCSS]
-- **State Management**: [Redux Toolkit / Context API]
+- **State Management**: [Redux Toolkit ]
 
 ---
 
@@ -56,44 +55,10 @@ Here’s your updated README file with additional features and improvements:
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Live Demo
 
-### Prerequisites
-
-- **Node.js** >= 16.x
-- **npm** or **yarn**
-- MongoDB or [your database]
-
-### Installation
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/omar-tood/PROJECT_NAME.git
-   cd PROJECT_NAME
-   ```
-
-2. **Install dependencies**:
-   ```bash
-   npm install
-   ```
-
-3. **Set up environment variables**:
-   Create a `.env` file in the root directory and add your configuration:
-   ```env
-   DATABASE_URL=mongodb://localhost:27017/your-db
-   SECRET_KEY=your-secret-key
-   ```
-
-4. **Run the application**:
-   ```bash
-   npm run dev
-   ```
-
----
-
-## 🌐 Live Demo
-
-[Check out the live demo here!](https://your-demo-link.com)
+🚧 **Upcoming Live**  
+Stay tuned! The live demo is under development and will be available soon. Subscribe for updates [here](https://your-updates-link.com).
 
 ---
 
@@ -141,8 +106,6 @@ For questions or support, reach out at **omar-tood@example.com**.
 ---
 
 ### Changes Made:
-1. Added **Order Management**, **Inventory Tracking**, **Multi-Language Support**, and **Reports Export** features to the list.
-2. Included additional state management technology (Redux Toolkit/Context API).
-3. Enhanced the screenshots section with a placeholder for **Order Management**.
-4. Updated contact information and contribution details to make it comprehensive.
+- Updated **Live Demo** to reflect an "Upcoming Live" status.
+- Added a placeholder link for updates (you can replace it with a real subscription or contact page).
 
